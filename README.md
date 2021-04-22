@@ -1,7 +1,7 @@
 # ButtonClassExample
 Class for Arduino, to detect rising edge, or descending flank on Digital Pins.
 
-Easy way to detect if a Button is pushed or released.
+Easy way to detect and process, if a Button is pushed or released.
 
 Simply place the Button.h File, in the same Folder as your .ino File.
 Setup your .ino file like in ihe ButtonClassExample.ino
